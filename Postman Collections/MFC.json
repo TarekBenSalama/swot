@@ -1,0 +1,48 @@
+{
+	"info": {
+		"_postman_id": "21d0df94-4cde-4f47-bfe7-05aed9e69347",
+		"name": "My first collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"_postman_id": "a115aaa3-ec35-4aa6-815d-5699d4155a59",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "https://postman-echo.com"
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"_postman_id": "75670bac-15d2-435f-958f-53ee4f81cecd",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "https://postman-echo.com"
+			},
+			"response": []
+		},
+		{
+			"name": "ExempleGet ",
+			"_postman_id": "fd05421c-e877-450d-ae90-be1be13c1ad5",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": ""
+			},
+			"response": []
+		}
+	]
+}
